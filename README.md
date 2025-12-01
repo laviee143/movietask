@@ -1,3 +1,37 @@
+ 🎬 Movie Recommendation App
+     
+   A web application that recommends movies based on user preferences. Built with [ Node.js, React,tailwind, etc.], this app provides a simple and intuitive interface for discovering movies.
+
+    Features
+         - Search for movies by title
+         - Get personalized movie recommendations
+         - Responsive design for desktop and mobile device
+         - Easy-to-use interface
+         
+screenshots
+    
+  <img width="1894" height="5053" alt="image" src="https://github.com/user-attachments/assets/c063d4ad-433c-4c6b-9ee7-cce374cb91c0" />
+
+🛠 Tech Stack
+
+    Frontend - React, HTML, CSS, JavaScript
+    Tailwind CSS – Styling and responsive layout
+    
+🚀 Installation
+
+# Clone the repository
+git clone https://github.com/laviee143/movierec.git
+cd movierec
+
+# Install dependencies
+npm install
+
+# Start the app
+npm start
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
