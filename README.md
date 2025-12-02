@@ -9,8 +9,8 @@
          - Easy-to-use interface
          
 screenshots
-    
-  <img width="1894" height="5053" alt="image" src="https://github.com/user-attachments/assets/c063d4ad-433c-4c6b-9ee7-cce374cb91c0" />
+    ![Uploading image.png…]()
+
 
 🛠 Tech Stack
 
