@@ -20,7 +20,7 @@ screenshots
 🚀 Installation
 
 # Clone the repository
-git clone https://github.com/laviee143/movierec.git
+git clone https://github.com/laviee143/movietask
 cd movierec
 
 # Install dependencies
