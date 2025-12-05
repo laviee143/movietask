@@ -8,8 +8,10 @@
          - Responsive design for desktop and mobile device
          - Easy-to-use interface
          
-screenshots
-    ![Uploading image.png…]()
+   screenshots
+
+   <img width="1894" height="5053" alt="image" src="https://github.com/user-attachments/assets/4bde0c68-2362-40bd-9dce-7b58c788ca56" />
+
 
 
 
